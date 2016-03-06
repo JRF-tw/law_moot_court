@@ -673,8 +673,8 @@ Iscoe 法官來台期間，不論在公開場合和私下，皆不吝於分享�
 
 --- 
 [^13]: [20150207第三場民間版模擬陪審法庭—陪審團評議側錄](http://youtu.be/P6-bJFRHgFg)
-[^14]: 詳見側錄42：23及1：12：40
-[^15]: [BOOKSHOW 說書會錄影](http://youtu.be/jn7M7RnRVp8?t=1h43m28s)（CCBY3.0）
+[^14]: 詳見側錄[42：23](https://youtu.be/P6-bJFRHgFg?t=42m23s)及[1：12：40](https://youtu.be/P6-bJFRHgFg?t=1h12m40s)
+[^15]: [BOOKSHOW 說書會錄影](http://youtu.be/jn7M7RnRVp8?t=1h43m28s)（[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.zh_TW)）
 
 ![陪審員評議實況轉播](3-2-1.jpg "陪審員評議實況轉播")
 
